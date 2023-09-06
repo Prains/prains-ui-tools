@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "prai'ns",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react-spinners": "^0.13.8"
+  }
 }

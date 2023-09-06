@@ -11,7 +11,7 @@ const ProgressBar = ({
   className,
   backgroundBarColor,
   progressBarColor,
-  porogressBarStyles,
+  progressBarStyles,
 }: ProgressBarProps) => {
   return (
     <div className={`${backgroundBarColor} rounded-[4px] h-1 ` + className}>
