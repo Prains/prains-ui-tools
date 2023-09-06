@@ -1,0 +1,11 @@
+{
+  "name": "prains-ui-tools",
+  "version": "1.0.2",
+  "description": "some ui tools for my projects",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prai'ns",
+  "license": "ISC"
+}
